@@ -1,2 +1,1 @@
-# hexlet-js
-Config files for my GitHub profile.
+Мой первый проект на Хекслете
